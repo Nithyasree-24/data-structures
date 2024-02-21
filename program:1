@@ -31,7 +31,7 @@ for(k=0;k<n;k++)
 printf("%d ", arr[k]);
 }
 printf("\n");
-if (i == 5)
+if (i == 6)
 {
 printf("Result after 6th Iteration: ");
 for (k = 0; k < n; k++)
